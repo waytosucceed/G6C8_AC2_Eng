@@ -1,0 +1,210 @@
+[
+    {
+        "questionNo": "Q1.",
+        "question": "Identify the adverb of manner in the sentence: 'The dancer gracefully glided across the stage.'",
+        "options": [
+            "Stage",
+            "Dancer",
+            "Glided",
+            "Gracefully"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q2.",
+        "question": "Which of the following is an adverb of time?",
+        "options": [
+            "Quickly",
+            "Yesterday",
+            "Nearby",
+            "Rarely"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q3.",
+        "question": "Identify the adverb of place in the sentence: 'The bird flew high above the trees.'",
+        "options": [
+            "Flew",
+            "High",
+            "Above",
+            "Trees"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q4.",
+        "question": "'Swiftly' is an adverb of manner.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q5.",
+        "question": "'Occasionally' is an adverb of time.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q6.",
+        "question": "“Seldom” is an adverb of ________.",
+        "options": [
+            "Place",
+            "Frequency",
+            "Time",
+            "Manner"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q7.",
+        "question": "Identify the adverb of degree in the sentence: 'The student performed remarkably well on the exam.'",
+        "options": [
+            "Student",
+            "Performed",
+            "Remarkably",
+            "Well"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q8.",
+        "question": "'Here' is an adverb of place.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q9.",
+        "question": "'Rarely' is an adverb of ________.",
+        "options": [
+            "Degree",
+            "Place",
+            "Frequency",
+            "Time"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q10.",
+        "question": "'However' is a conjunctive adverb.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q11.",
+        "question": "'Cautiously' is an adverb of ________.",
+        "options": [
+            "Degree",
+            "Manner",
+            "Time",
+            "Frequency"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q12.",
+        "question": "Identify the adverb of time in the sentence: 'The exhibition will open next month.'",
+        "options": [
+            "The",
+            "Exhibition",
+            "Open",
+            "Next month"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q13.",
+        "question": "Identify the conjunctive adverb in the sentence: 'The movie was entertaining; nevertheless, it lacked depth.'",
+        "options": [
+            "Movie",
+            "Entertaining",
+            "Nevertheless",
+            "Lacked"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q14.",
+        "question": "Which of the following is an adverb of place?",
+        "options": [
+            "Slowly",
+            "Constantly",
+            "Underneath",
+            "Extremely"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q15.",
+        "question": "Identify the adverb of frequency in the sentence: 'We take a vacation at least once annually.'",
+        "options": [
+            "Take",
+            "Vacation",
+            "Annually",
+            "None of the above"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q16.",
+        "question": "Which of the following is an adverb of degree?",
+        "options": [
+            "Suddenly",
+            "Thoroughly",
+            "Promptly",
+            "Frequently"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q17.",
+        "question": "'Moreover' is a conjunctive adverb.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q18.",
+        "question": "Identify the adverb of manner in the sentence: 'The athlete trained vigorously for the competition.'",
+        "options": [
+            "Athlete",
+            "Trained",
+            "Vigorously",
+            "Competition"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q19.",
+        "question": "'Lately' is an adverb of time.",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q20.",
+        "question": "Which of the following is a conjunctive adverb?",
+        "options": [
+            "Quickly",
+            "Therefore",
+            "Seldom",
+            "Nearby"
+        ],
+        "correct": 1
+    }
+]

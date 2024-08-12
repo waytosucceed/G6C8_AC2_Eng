@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Class Activity 2</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+  
+  <link rel="icon" type="image/x-icon" href="Logo_last.png">
+
+
+  <style>
+        
+
+.correct{
+    background-color: rgb(167, 225, 243);
+    border-radius: 50%;
+    width:100px;
+    height: 50px;
+   font-weight: bold;
+   
+}
+
+
+  </style>
+
+
+
+</head>
+
+
+<body>
+  <audio id="cheers" >
+    <source src="cheers.mp3" type="audio/mpeg">
+  </audio>
+  <audio id="points" src="Points.mp3"></audio>
+  <audio id="fail" src="fail.mp3"></audio>
+  <div class="header" style="width:100%; box-shadow:5px 5px 10px rgb(0, 0, 0); padding-bottom:10px;">
+    <img src="Logo.png" width="5%" style="float:left; margin-top:25px;" class="img-responsive">
+    <span> <img src="header.png" width="30%" height="100px" class="img-responsive"></span>
+</div>
+<br>
+<br>
+  <center>
+    
+    <h1 id="heading" style="font-family: Impact">Lets Revise With The Teacher</h1>
+    <div class="maindiv container" style="padding-top: 50px;">
+  
+  
+     <p style="font-size: 20px;">Q1.   Describe how you walk to school using an adverb of manner.
+  
+      <br><br>
+  
+      <label id="label1"></label> 
+         <button onclick="func1()" id="btn1" class="correct">Check</button> <br><br>
+  
+       Q2.  Use an adverb of place to describe where you like to study.
+       <br><br>
+  
+  
+       <label id="label2"></label>
+      <button onclick="func2()" id="btn2" class="correct">Check</button>
+       <br> <br>
+  
+  
+       Q3.  What is a conjunctive adverb?
+       <br><br>
+  
+  
+       <label id="label3"></label>
+      <button onclick="func3()" id="btn3" class="correct">Check</button>
+       <br> <br>
+  
+       Q4.  Use an adverb of degree to describe how well you performed on a recent test or assignment.
+       <br><br>
+  
+  
+       <label id="label4"></label>
+      <button onclick="func4()" id="btn4" class="correct">Check</button>
+       <br> <br>
+  
+       Q5.  Combine two independent clauses using a conjunctive adverb to describe your plans for the weekend.
+       <br><br>
+  
+  
+       <label id="label5"></label>
+      <button onclick="func5()" id="btn5" class="correct">Check</button>
+       <br> <br>
+    </p> 
+  </div>
+    <script>
+      
+             function func1(){
+              document.getElementById('label1').innerHTML="We can use adverbs of manner such as \"quickly,\" \"carefully,\" or \"leisurely\" to describe the way they walk to school. These adverbs answer the question \"How?\" by modifying the verb \"walk.\""
+              document.getElementById('btn1').style.display="none"
+             }
+  
+             function func2(){
+              document.getElementById('label2').innerHTML="We can use adverbs of place such as \"at home,\" \"in the library,\" \"outdoors,\" or \"upstairs\" to describe the location or position where they prefer to study. These adverbs answer the question \"Where?\" by modifying the verb \"study.\""
+              document.getElementById('btn2').style.display="none"
+             }
+  
+             function func3(){
+              document.getElementById('label3').innerHTML="A conjunctive adverb connects two independent clauses, showing relationships like cause and effect, contrast, or addition. It provides transitions between ideas and is often preceded by a semicolon and followed by a comma, e.g., \"however,\" \"therefore,\" and \"moreover.\""
+              document.getElementById('btn3').style.display="none"
+             }
+  
+             function func4(){
+              document.getElementById('label4').innerHTML="We can use adverbs of degree such as \"extremely,\" \"fairly,\" \"highly,\" or \"slightly\" to indicate the extent or degree to which they performed well on a test or assignment. These adverbs answer the question \"To what extent?\" by modifying the verb phrase related to their performance."
+              document.getElementById('btn4').style.display="none"
+             }
+  
+             function func5(){
+              document.getElementById('label5').innerHTML="We can use conjunctive adverbs such as \"moreover,\" \"however,\" \"therefore,\" or \"consequently\" to join two independent clauses describing their plans for the weekend. These adverbs act as connectors or transitions between the two clauses, indicating the relationship between them.<br>Example: I plan to go hiking on Saturday; however, I will stay home and relax on Sunday."
+              document.getElementById('btn5').style.display="none"
+             }
+  
+    </script>
+</center>
+</body>
+</html>
